@@ -4,6 +4,8 @@ import Wave from "@/Components/Wave";
 
 import "./index.css";
 
+// Background image from https://unsplash.com/photos/zAp-NoDJwFs
+
 export default class Hero extends React.Component {
   render() {
     return (
@@ -12,10 +14,10 @@ export default class Hero extends React.Component {
           <h1>Python Pizza</h1>
           <h2>
             <a target="_blank" rel="noopener noreferrer">
-              Hamburg @ SinnerSchrader
+              Südwest @ bitExpert (Mannheim)
             </a>
           </h2>
-          <h2>9 November 2019</h2>
+          <h2>24 April 2020</h2>
         </div>
 
         <Wave />

@@ -10,7 +10,7 @@ export default class About extends React.Component {
           <h1>Python Pizza</h1>
           <p>
             <b>Python Pizza</b> is a micro conference organized by the Python
-            Hamburg Community.
+            Südwest (Heidelberg&nbsp;/&nbsp;Mannheim&nbsp;/&nbsp;Karlsruhe) Community.
           </p>
           <p>
             We bring the Python Community together for some amazing original
@@ -31,6 +31,14 @@ export default class About extends React.Component {
               rel="noopener noreferrer"
             >
               Naples Python Pizza
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://hamburg.python.pizza"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Hamburg Python Pizza
             </a>{" "}
             and{" "}
             <a
