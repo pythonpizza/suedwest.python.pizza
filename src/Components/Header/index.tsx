@@ -48,7 +48,7 @@ export default class Header extends React.Component {
                         </li>
                         <li>
                             <a onClick={this.onNavClick} href="#travel" data-destination="travel">
-                                CoC
+                                Travel Info
                             </a>
                         </li>
                         <li>
