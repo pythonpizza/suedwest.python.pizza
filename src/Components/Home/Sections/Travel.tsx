@@ -10,7 +10,7 @@ export default class Travel extends React.Component {
           <h1>Travel</h1>
           <h2>By (regional) public transport</h2>
           <p>
-            The venue is connected via tram at <tt>Herzogenriedstraße</tt>.
+            The venue is connected via tram at Herzogenriedstraße.
             You can either take Line 1 from the main train station or Line 3 from the city center.
             For all other modes of transport below, you will have to change at Mannheim Hbf (train station) into Line 1 towards Schönau.
           </p>
