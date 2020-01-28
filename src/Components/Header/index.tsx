@@ -47,8 +47,18 @@ export default class Header extends React.Component {
                             </a>
                         </li>
                         <li>
+                            <a onClick={this.onNavClick} href="#travel" data-destination="travel">
+                                CoC
+                            </a>
+                        </li>
+                        <li>
                             <a onClick={this.onNavClick} href="#coc" data-destination="coc">
                                 CoC
+                            </a>
+                        </li>
+                        <li>
+                            <a onClick={this.onNavClick} href="#imprint" data-destination="imprint">
+                                Imprint
                             </a>
                         </li>
                         <li>
