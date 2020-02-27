@@ -15,7 +15,8 @@ jobs:
         run: yarn
       - name: Build website
         run: yarn build
-      - uses: netlify/actions/cli@master
+        # Revert to netlify/actions/cli@master once https://github.com/netlify/actions/pull/23 is merged
+      - uses: heizungsmacher/actions/cli@master
         with:
           args: deploy --dir=build/ --prod
         env:
