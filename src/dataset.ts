@@ -28,7 +28,7 @@ export const SPONSORS: Sponsor[][] = [
     {
       id: "BitExpert",
       name: "bitExpert AG",
-      photo: "https://via.placeholder.com/150",
+      photo: require("Assets/sponsors/Kunde_bitExpert_logo.svg"),
       link: "https://www.python.org"
     },
     {
