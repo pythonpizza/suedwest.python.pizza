@@ -17,7 +17,8 @@ export default class Hero extends React.Component {
               Südwest @ bitExpert (Mannheim)
             </a>
           </h2>
-          <h2>24 April 2020</h2>
+          <h2>Postponed to autumn due to the heath crisis.</h2>
+          <h3>Sign up <a href="https://ti.to/pythonpizza/pypizza-sudwest" target="_blank"></a>here for updates.</h3>
         </div>
 
         <Wave />
